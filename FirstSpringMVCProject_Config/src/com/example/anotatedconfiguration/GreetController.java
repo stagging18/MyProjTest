@@ -1,3 +1,8 @@
+/**
+ *Added comment in the repository
+ *
+ */
+
 package com.example.anotatedconfiguration;
 
 import org.springframework.stereotype.Controller;
